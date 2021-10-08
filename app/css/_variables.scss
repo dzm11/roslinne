@@ -1,14 +1,17 @@
-@import url("https://use.typekit.net/gbg0mal.css");
+// @import url("https://use.typekit.net/gbg0mal.css");
 
 // Colors
-$DarkGreen: #003A1D;
+$DarkGreen: #003a1d;
 $Green: #287623;
-$LightGreen: #D9EA96;
+$SemiGreen: #48a067;
+$LightGreen: #d9ea96;
 
 // Font sizes
 
 $font-xsm: 0.75rem; //12
 $font-sm: 0.875rem; //14
-$font-body: 1rem; //16
-$font-smallheading: 1.375; //22
+$font-body: 1.125rem; //18
+$font-smallheading: 1.375rem; //22
+$font-mediumheading: 1.5rem; //24
 $font-heading: 1.625rem; //26
+$font-bigheading: 2.375rem;
