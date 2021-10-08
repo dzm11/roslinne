@@ -136,7 +136,8 @@ li {
 
 .header .header__image {
   margin-top: 25px;
-  max-width: 1110px;
+  width: 100%;
+  max-width: 1400px;
 }
 
 .header .products__grid {
